@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @alsoknownaslj
+- 📚 I work in crypto/web3
+- 📣 Marketing person by trade
+- 📈 Statistics/Data Sci grad student by night
+- 🌱 I’m currently learning Python and R
+- 🤔 Interested in JS, NLP, data analytics, + front-end development
