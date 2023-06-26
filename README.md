@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alsoknownaslj
-- 📚 I work in crypto/web3
-- - 📈 Statistics/Data Sci grad student
-- 🌱 Learning Python & js
+- Hi, I’m @alsoknownaslj
+- I work in crypto/web3
+- R loyalist
+- Learning Python & js
